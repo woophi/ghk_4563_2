@@ -14,9 +14,9 @@ export const App = () => {
 
   const submit = (withThx = true) => {
     if (withThx) {
-      window.gtag('event', 'activate_gold_4429_var2');
+      window.gtag('event', 'activate_gold_4563_var2');
     } else {
-      window.gtag('event', 'no_interest_4429_var2');
+      window.gtag('event', 'no_interest_4563_var2');
     }
     setLoading(true);
 
